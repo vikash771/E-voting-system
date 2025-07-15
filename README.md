@@ -1,4 +1,4 @@
-# E-voting-system
+# ONLINE VOTING SYSTEM
 
 <br>
 
